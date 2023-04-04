@@ -26,3 +26,6 @@ else:
     print("This is not a valid rating, please use universal, pg, 12, 15 or 18")
 
     # THERE ARE NO SWITCH OR CASE STATEMENTS IN PYTHON
+
+
+
